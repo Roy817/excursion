@@ -1,0 +1,21 @@
+html {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  background-color: black;
+}
+
+h1{
+  Color: white;
+  font-size: 50px;
+}
+
+#header, #phone p {
+  color: Aquamarine;
+  font-size: 16 px;
+}
+
+#guide p {
+  color: grey;
+  font-size: 21px;
+}
